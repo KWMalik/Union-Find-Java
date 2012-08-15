@@ -1,1 +1,1 @@
-Implementation of Union-Find algorithm in java.
+Implementation of Union-Find algorithms in java.
